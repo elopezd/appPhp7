@@ -16,7 +16,7 @@
       <nav>
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
-        <li><a href=basicoPhp7.php>Básico Php7</a></li>
+        <li><a href="#">Otros ejemplos Php7</a></li>
       </ul>
       </nav>
     </header>
